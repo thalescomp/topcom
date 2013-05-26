@@ -107,7 +107,7 @@ int main()
       v.push_back(point(x,y));
     }
     ans = spanning_circle(v);
-    printf ("%.5lf %.5lf %.5lf\n", ans.first.x, ans.first.y, ans.second);
+    printf ("%.2lf %.2lf %.2lf\n", ans.first.x, ans.first.y, ans.second);
   }
   return 0;
 }

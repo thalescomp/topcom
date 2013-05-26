@@ -37,9 +37,15 @@ Observação: sua resposta para cada um dos itens deve ter apenas 2 casa decimai
     0 0
     3 0
     0 3
+    4
+    2 0
+    -2 0
+    0 2
+    0 -2
     0
 
 ### Saída
 
-    3.34615 1.88462 2.50739
-    1.50000 1.50000 2.12132
+    3.35 1.88 2.51
+    1.50 1.50 2.12
+    0.00 0.00 2.00
