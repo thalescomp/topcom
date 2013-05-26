@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-int r[1000010];
-int mm[1000010][18]; // or n and log(n) +1
+int r[50010];
+int mm[50010][18]; // or n and log(n) +1
 
 #define max(a,b) ((a) > (b)) ? a : b
 
