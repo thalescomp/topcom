@@ -1,9 +1,10 @@
 # Protegendo o jardim
+### Autor: João Víctor Rocon Maia
 #### nome do arquivo: jardim.c, jardim.cpp ou jardim.java
 
 No interior do Espírito Santo mora o alemão Hans e sua família. Hans é um grande fã de jardins e tem muito cuidado com o seu.
 
-Pensando nisso Hans resolveu colocar um cachorro para tomar conta de seu jardim. O problema que o cachorro do Hans é muito elétrico e não consegue ficar de guarda no jardim.
+Pensando nisso Hans resolveu colocar um cachorro para tomar conta de seu jardim. O problema é que o cachorro do Hans é muito elétrico e não consegue ficar de guarda no jardim.
 
 A solução foi prender o seu cachorro a uma corda presa a um ponto fixo no jardim de forma a cobrir quase todo o jardim.
 
