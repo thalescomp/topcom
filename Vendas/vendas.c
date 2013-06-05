@@ -28,10 +28,12 @@ int getmax(int a, int b)
 
 int main()
 {
-  int n, m, i, a, b;
+  int n, m, i, a, b, test = 1;
   while (1) {
     scanf ("%d ", &n);
     if (!n) break;
+    if (test > 1) printf ("\n");
+    printf ("Entrada #%d:\n", test++);
     for (i = 0; i < n; i++) {
       scanf ("%d ", &r[i]);
     }
